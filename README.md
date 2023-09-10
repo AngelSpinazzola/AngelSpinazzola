@@ -1,6 +1,5 @@
 <div align="center">
-Hola, soy Angel 👋
-
+<h1>Hola, soy Angel 👋</h1>
 <!--
 **AngelSpinazzola/AngelSpinazzola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
