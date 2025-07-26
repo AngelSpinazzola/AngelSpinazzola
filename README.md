@@ -2,14 +2,17 @@
 <h3 align="center">Desarrollador Backend .NET & React</h3>
 <br>
 
-- 🌱 Aprendiendo más sobre **Arquitectura limpia, API RESTful y React**
-- 💬 Me gusta hablar sobre **.NET, React y buenas prácticas**
-- 💡 Me motiva crear **soluciones eficientes y mantenibles**
+- 🌱 Aprendiendo más sobre **Arquitectura limpia, API RESTful y React
+- 💬 Me gusta hablar sobre **.NET, React y buenas prácticas
+- 🎓 Técnico Superior en Programación** - UTN FRGP (a 1 materia de graduarme)
+- 💡  Me motiva crear **soluciones eficientes y mantenibles
+- ⚡ Stack principal: .NET, C#, API RESTful, SQL, Entity Framework, React
+
 <br></br>
 
-🛠️ Tech Stack
-
-<div align="left">
+<div align="center">
+<h2>🛠️ Tech Stack</h2>
+<br>
 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/React-2D2D2D?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
