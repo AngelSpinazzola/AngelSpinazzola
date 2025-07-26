@@ -2,11 +2,15 @@
 <h3 align="center">Desarrollador Backend .NET & React</h3>
 <br>
 
-- 🌱 Aprendiendo más sobre **Arquitectura limpia, API RESTful y React
-- 💬 Me gusta hablar sobre **.NET, React y buenas prácticas
-- 🎓 Técnico Superior en Programación** - UTN FRGP (a 1 materia de graduarme)
-- 💡  Me motiva crear **soluciones eficientes y mantenibles
-- ⚡ Stack principal: .NET, C#, API RESTful, SQL, Entity Framework, React
+- 🌱  **Aprendiendo más sobre Arquitectura limpia, API RESTful y React**
+  
+- 💬  **Me gusta hablar sobre .NET, React y buenas prácticas**
+  
+- 🎓  **Técnico Superior en Programación - UTN FRGP (a 1 materia de graduarme)**
+  
+- 💡   **Me motiva crear soluciones eficientes y mantenibles**
+  
+- ⚡  **Stack principal: .NET, C#, API RESTful, SQL, Entity Framework, React**
 
 <br></br>
 
