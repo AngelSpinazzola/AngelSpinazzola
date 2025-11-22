@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Angel</h1>
-<h3 align="center">Desarrollador Backend .NET & React</h3>
+<h3 align="center">Desarrollador Full-Stack .NET & React</h3>
 <br>
 
 - 🌱  **Aprendiendo más sobre Arquitectura limpia, API RESTful y React**
