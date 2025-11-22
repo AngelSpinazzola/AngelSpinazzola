@@ -6,7 +6,7 @@
   
 - 💬  **Me gusta hablar sobre .NET, React y buenas prácticas**
   
-- 🎓  **Técnico Superior en Programación - UTN FRGP (a 1 materia de graduarme)**
+- 🎓  **Técnico Universitario en Programación - UTN** 
   
 - 💡   **Me motiva crear soluciones eficientes y mantenibles**
   
