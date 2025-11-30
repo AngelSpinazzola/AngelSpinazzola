@@ -2,13 +2,13 @@
 <h3 align="center">Desarrollador Full-Stack .NET & React</h3>
 <br>
 
-- 🌱  **Aprendiendo más sobre Arquitectura limpia, API RESTful y React**
+- 🌱  **Aprendiendo: Clean Architecture, principios SOLID, CQRS y diseño de APIs.**
   
-- 💬  **Me gusta hablar sobre .NET, React y buenas prácticas**
+- 💬  **Intereses: Ingeniería de software, rendimiento de aplicaciones y ecosistema .NET/React.**
   
-- 🎓  **Técnico Universitario en Programación - UTN** 
+- 🎓  **Formación: Técnico Universitario en Programación - UTN** 
   
-- 💡   **Me motiva crear soluciones eficientes y mantenibles**
+- 💡   **Motivación: Crear soluciones eficientes, mantenibles y escalables.**
   
 - ⚡  **Stack principal: .NET, C#, API RESTful, SQL, Entity Framework, React**
 
@@ -71,7 +71,7 @@
 ## 🤝 Conectemos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-spinazzola/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://angelspinazzola.github.io/portfolio-angel/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://angel-spinazzola.vercel.app/)
 
 
 </div>
